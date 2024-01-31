@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Kutuphanestaj/1.0.0": {
+        "runtime": {
+          "Kutuphanestaj.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kutuphanestaj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

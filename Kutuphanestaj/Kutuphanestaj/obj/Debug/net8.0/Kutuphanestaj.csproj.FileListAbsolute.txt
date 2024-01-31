@@ -1,0 +1,14 @@
+C:\Users\Ayşenur\source\repos\Kutuphanestaj\Kutuphanestaj\obj\Debug\net8.0\Kutuphanestaj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayşenur\source\repos\Kutuphanestaj\Kutuphanestaj\obj\Debug\net8.0\Kutuphanestaj.AssemblyInfoInputs.cache
+C:\Users\Ayşenur\source\repos\Kutuphanestaj\Kutuphanestaj\obj\Debug\net8.0\Kutuphanestaj.AssemblyInfo.cs
+C:\Users\Ayşenur\source\repos\Kutuphanestaj\Kutuphanestaj\obj\Debug\net8.0\Kutuphanestaj.csproj.CoreCompileInputs.cache
+C:\Users\Ayşenur\source\repos\Kutuphanestaj\Kutuphanestaj\bin\Debug\net8.0\Kutuphanestaj.exe
+C:\Users\Ayşenur\source\repos\Kutuphanestaj\Kutuphanestaj\bin\Debug\net8.0\Kutuphanestaj.deps.json
+C:\Users\Ayşenur\source\repos\Kutuphanestaj\Kutuphanestaj\bin\Debug\net8.0\Kutuphanestaj.runtimeconfig.json
+C:\Users\Ayşenur\source\repos\Kutuphanestaj\Kutuphanestaj\bin\Debug\net8.0\Kutuphanestaj.dll
+C:\Users\Ayşenur\source\repos\Kutuphanestaj\Kutuphanestaj\bin\Debug\net8.0\Kutuphanestaj.pdb
+C:\Users\Ayşenur\source\repos\Kutuphanestaj\Kutuphanestaj\obj\Debug\net8.0\Kutuphanestaj.dll
+C:\Users\Ayşenur\source\repos\Kutuphanestaj\Kutuphanestaj\obj\Debug\net8.0\refint\Kutuphanestaj.dll
+C:\Users\Ayşenur\source\repos\Kutuphanestaj\Kutuphanestaj\obj\Debug\net8.0\Kutuphanestaj.pdb
+C:\Users\Ayşenur\source\repos\Kutuphanestaj\Kutuphanestaj\obj\Debug\net8.0\Kutuphanestaj.genruntimeconfig.cache
+C:\Users\Ayşenur\source\repos\Kutuphanestaj\Kutuphanestaj\obj\Debug\net8.0\ref\Kutuphanestaj.dll
